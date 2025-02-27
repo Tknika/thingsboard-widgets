@@ -1,6 +1,6 @@
 # Thingsboard Plataformarako WIDGET-ak
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/tknika.png" width="280" height="80">
+  <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/tknika.png" width="200" height="80">
   <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/White.png" width="300" height="100">
   <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/Thingsboard.png" width="300" height="100">
 </p>
