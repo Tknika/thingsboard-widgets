@@ -13,7 +13,7 @@
 Widget gehiago aurki ditzakezue **devaskim**-en **awesome-thingsboard** kutxatilan [loturan]([https://demo.thingsboard.io/dashboard/71711470-d8d3-11ef-9dbc-834dadad7dd9?publicId=3cd10c30-53e6-11ed-a339-0708081d40ce](https://github.com/devaskim/awesome-thingsboard)) klik eginez.
 
 
-# tk_device_telemetries_maintenance_v1_0
+# 1: Datu Deskarga Widget-a: tk_device_telemetries_maintenance_v1_0
 
 Widget honekin zuen **Tenant**-eko edozein **Device**-eko datuak jaitsi edo ezabatu ditzakezue.
 
