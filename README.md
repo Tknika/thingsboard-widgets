@@ -1,13 +1,13 @@
 # Thingsboard Plataformarako WIDGET-ak
 <p align="center">
-  <img src="Tknika.github.io/thingsboard-widgets/tree/main/Irudiak/tknika.png" width="280" height="80">
-  <img src="Tknika.github.io/thingsboard-widgets/Irudiak/White.png" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/tknika.png" width="280" height="80">
+  <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/White.png" width="300" height="100">
   <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/Thingsboard.png" width="300" height="100">
 </p>
 
 **Thingsboard** plataformarako hurrengo widget-ak zintzilikatu ditugu **Tknika**-ko gure GitHub kaxa honetan: 
 <p align="center">
-  <img src="https://Tknika.github.io/thingsboard-widgets/Irudiak/Widget_library_image.png" width="800" height="400">
+  <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/Widget_library_image.png" width="800" height="400">
 </p>
 
 Widget gehiago aurki ditzakezue **devaskim**-en **awesome-thingsboard** kutxatilan [loturan]([https://demo.thingsboard.io/dashboard/71711470-d8d3-11ef-9dbc-834dadad7dd9?publicId=3cd10c30-53e6-11ed-a339-0708081d40ce](https://github.com/devaskim/awesome-thingsboard)) klik eginez.
@@ -18,7 +18,7 @@ Widget gehiago aurki ditzakezue **devaskim**-en **awesome-thingsboard** kutxatil
 Widget honekin zuen **Tenant**-eko edozein **Device**-eko datuak jaitsi edo ezabatu ditzakezue.
 
 <p align="center">
-  <img src="https://Tknika.github.io/thingsboard-widgets/Irudiak/tk_device_maintenance_photo.png" width="800" height="400">
+  <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/tk_device_maintenance_photo.png" width="800" height="400">
 </p>
 
 ## Loturak                            
