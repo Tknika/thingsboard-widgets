@@ -19,7 +19,7 @@ Widget gehiago aurki ditzakezue **devaskim**-en **awesome-thingsboard** kutxatil
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/tk_device_maintenance_photo.png" width="800" height="300">
 </p>
-Deskargatu  **tk_device_telemetries_maintenance_v1_0**widget-a [hemen]([https://demo.thingsboard.io/dashboard/71711470-d8d3-11ef-9dbc-834dadad7dd9?publicId=3cd10c30-53e6-11ed-a339-0708081d40ce](https://github.com/devaskim/awesome-thingsboard)) klik eginez.
+Deskargatu  **tk_device_telemetries_maintenance_v1_0**widget-a [klik](https://demo.thingsboard.io/dashboard/71711470-d8d3-11ef-9dbc-834dadad7dd9?publicId=3cd10c30-53e6-11ed-a339-0708081d40ce) eginez.
 
 ## Loturak                            
  
