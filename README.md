@@ -7,7 +7,7 @@
 
 **Thingsboard** plataformarako hurrengo widget-ak zintzilikatu ditugu **Tknika**-ko gure GitHub kaxa honetan: 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/Widget_library_image.png" width="800" height="400">
+  <img src="https://raw.githubusercontent.com/Tknika/thingsboard-widgets/main/Irudiak/Widget_library_image.png" width="800" height="600">
 </p>
 
 Widget gehiago aurki ditzakezue **devaskim**-en **awesome-thingsboard** kutxatilan [loturan]([https://demo.thingsboard.io/dashboard/71711470-d8d3-11ef-9dbc-834dadad7dd9?publicId=3cd10c30-53e6-11ed-a339-0708081d40ce](https://github.com/devaskim/awesome-thingsboard)) klik eginez.
